@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "985954506496",
+    "firebase_url": "https://timetable-a1013.firebaseio.com",
+    "project_id": "timetable-a1013",
+    "storage_bucket": "timetable-a1013.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985954506496:android:482fcb8273f8c384",
+        "android_client_info": {
+          "package_name": "com.dvsmart.timetable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985954506496-9clfi64n23nrq09abs0h9tm2lm97q6il.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNn8oEh-61nWFOeRKJ4pOnFiESOladwRY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
