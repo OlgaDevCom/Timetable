@@ -26,6 +26,5 @@ class Trans :  NSObject{
             listat = (snapshot["listat"] as? [String:Any])!
             listto = (snapshot["listto"] as? [String:Any])!
         }
-        
     }
 }
