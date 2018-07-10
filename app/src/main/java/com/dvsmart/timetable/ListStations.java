@@ -301,7 +301,7 @@ public class ListStations extends AppCompatActivity {
              Log.i("adsset", "onCreate: 1");
          }else
          {
-             interstitialAd.setAdUnitId(getResources().getString(R.string.stas));
+             interstitialAd.setAdUnitId(getResources().getString(R.string.ad_varezza));
              helper.setPreference("ads","0");
              Log.i("adsset", "onCreate: 0");
          }
